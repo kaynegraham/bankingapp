@@ -1,6 +1,6 @@
 # npwd_bankingapp
 
-A banking app for [NPWD](https://github.com/project-error/new-phone-who-dis) built for QBCore servers. Designed with a BHRP (BeehiveRP) dark-orange theme and an alternative dark navy theme — both switchable in-app.
+A banking app for [NPWD](https://github.com/project-error/new-phone-who-dis) built for QBox & QBcore servers. Designed with a BHRP (BeehiveRP) dark-orange theme and an alternative dark navy theme — both switchable in-app.
 
 ![Preview](src/bhrplogo.png)
 
@@ -18,7 +18,7 @@ A banking app for [NPWD](https://github.com/project-error/new-phone-who-dis) bui
 
 | Resource | Notes |
 |---|---|
-| [qb-core](https://github.com/qbcore-framework/qb-core) | Core framework |
+| [qb-core](https://github.com/qbcore-framework/qb-core) | Core framework (Also works with QBox) |
 | [npwd](https://github.com/project-error/new-phone-who-dis) | Phone UI host |
 | [oxmysql](https://github.com/overextended/oxmysql) | Database queries |
 | [Renewed-Banking](https://github.com/Renewed-Scripts/Renewed-Banking) | Transaction log source |
