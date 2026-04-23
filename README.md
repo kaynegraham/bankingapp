@@ -2,8 +2,6 @@
 
 A banking app for [NPWD](https://github.com/project-error/new-phone-who-dis) built for QBox & QBcore servers. Designed with a BHRP (BeehiveRP) dark-orange theme and an alternative dark navy theme — both switchable in-app.
 
-![Preview](src/bhrplogo.png)
-
 ## Features
 
 - **Bank & cash balance** — live balance card with gradient display
